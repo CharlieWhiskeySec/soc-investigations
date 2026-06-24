@@ -6,6 +6,12 @@
 Security Investigations
 </h1>
 
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Planned Investigation Topics](#planned-investigation-topics)
+- [Project Status](#project-status)
+- [Related Projects](#related-projects)
+
 ## Overview
 
 This repository documents security investigations performed using telemetry generated within my Active Directory and Splunk Enterprise lab environment.
