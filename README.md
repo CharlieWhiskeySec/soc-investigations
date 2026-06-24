@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/02a7bd81-ee10-4cf1-aef9-c0649a03a4ea" width="200">
 </p>
 
-# Security Investigations
+<h1 align="center">
+Security Investigations
+</h1>
 
 ## Overview
 
