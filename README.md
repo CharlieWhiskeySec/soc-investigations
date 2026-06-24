@@ -30,7 +30,7 @@ Rather than focusing solely on the final result, these investigations emphasize 
 - PowerShell Activity Analysis
 - Kerberos Authentication Investigation
 
-## Current Status
+## Project Status
 
 ### In Progress
 
